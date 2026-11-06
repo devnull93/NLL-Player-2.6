@@ -1,5 +1,5 @@
 (function() {
-    alert("The code had some annoying bug\nmeans the playback stops unexpectedly!");
+    alert("This site had some annoying bug\nmeans the playback stops unexpectedly!");
     const mediaVideo = document.getElementById("mediaVideo");
     const spectrumCanvas = document.getElementById("spectrumCanvas");
     const ctx = spectrumCanvas.getContext("2d");
